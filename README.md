@@ -255,10 +255,10 @@ WorkSmart AI is designed to assist users in improving workplace productivity. AI
 
 | Name          | Role                        |
 | ------------- | --------------------------- |
-| Your Name     | Project Lead / AI Developer |
-| Team Member 2 | Frontend Developer          |
-| Team Member 3 | UI/UX Designer              |
-| Team Member 4 | Documentation & Testing     |
+| Azaxole  m    | Project Lead / AI Developer |
+|  Azaxole  m   | Frontend Developer          |
+| Azaxole  m    | UI/UX Designer              |
+|  Azaxole  m   | Documentation & Testing     |
 
 *Update this section with actual team member details before submission.*
 
@@ -278,5 +278,5 @@ WorkSmart AI is designed to assist users in improving workplace productivity. AI
 
 ## License
 
-This project was developed as part of the AI Skill Accelerator Programme and is intended for educational and demonstration purposes.
+This project was developed as part of the CapaCiTi AI Skill Accelerator Programme and is intended for educational and demonstration purposes.
 
